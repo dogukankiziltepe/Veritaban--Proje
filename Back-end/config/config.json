@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "1999.56Cfb",
+    "database": "VTYSProjeDb",
+    "host": "localhost",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "sa",
+    "password": "1999.56Cfb",
+    "database": "VTYSProjeDb",
+    "host": "localhost",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "sa",
+    "password": "1999.56Cfb",
+    "database": "VTYSProjeDb",
+    "host": "localhost",
+    "dialect": "mssql"
+  }
+}

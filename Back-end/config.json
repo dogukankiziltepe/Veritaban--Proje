@@ -1,0 +1,17 @@
+{
+    "dbName": "VTYSProjeDb",
+    "dbConfig": {
+        "server": "localhost",
+        "options": {
+            "port": 1433,
+            "trustServerCertificate": true
+        },
+        "authentication": {
+            "type": "default",
+            "options": {
+                "userName": "sa",
+                "password": "1999.56Cfb"
+            }
+        }
+    }
+}
